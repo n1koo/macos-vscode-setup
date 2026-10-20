@@ -1,0 +1,5 @@
+.DS_Store
+.vscode/*.code-workspace
+.env
+.env.*
+!.env.example

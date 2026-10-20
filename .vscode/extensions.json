@@ -1,0 +1,26 @@
+{
+  "recommendations": [
+    "Anthropic.claude-code",
+    "EditorConfig.EditorConfig",
+    "eamodio.gitlens",
+    "GitHub.vscode-pull-request-github",
+    "lucperkins.vrl-vscode",
+    "ms-azuretools.vscode-docker",
+    "ms-kubernetes-tools.vscode-kubernetes-tools",
+    "ms-python.python",
+    "charliermarsh.ruff",
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode.makefile-tools",
+    "mikestead.dotenv",
+    "nefrob.vscode-just-syntax",
+    "openai.chatgpt",
+    "redhat.vscode-yaml",
+    "rust-lang.rust-analyzer",
+    "Shopify.ruby-lsp",
+    "timonwong.shellcheck",
+    "golang.go",
+    "tamasfe.even-better-toml",
+    "vadimcn.vscode-lldb"
+  ]
+}
